@@ -25,10 +25,11 @@ body {
 
 #newtask {
     position: relative;
-    background-color: #fff;
+    background-color: #e7e1ff;
     padding: 30px 20px;
     border-radius: 5px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+    
 }
 
 #newtask input {
@@ -36,17 +37,21 @@ body {
     width: 70%;
     height: 40px;
     font-family: 'Poppins', sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     border: 2px solid #d1d3d4;
     padding: 10px;
-    color: #1111;
+    color: #00000011;
     font-weight: 500;
     border-radius: 5px;
+
 }
 
 #newtask input:focus {
     outline: none;
     border-color: #8aadf9;
+    color: #000;
+    font-size: 14px;
+    
 }
 
 #newtask button {
