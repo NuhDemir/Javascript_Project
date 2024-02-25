@@ -7,7 +7,8 @@ document.querySelector('#push').onclick = function() {
         document.querySelector('tasks').innerHTML+= `
         <div class="task">
             <span id="taskname">
-            ${document.querySelector('newtask input').value}
+            ${document.querySelector
+            ('newtask input').value}
        </span>
 
     </div> 
