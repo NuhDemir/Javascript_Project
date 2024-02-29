@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #def5e7;
+    background-color: #1a0c5a;
 }
 .wrapper {
     width: 95%;
@@ -42,7 +42,7 @@ body {
     margin-top: 0.5em;
 }
 
-#buttons  button{
+.button-value{
     padding: 1em 2.2em;
     border-radius: 3em;
     border: 2px solid   #6759ff;
@@ -51,3 +51,8 @@ body {
     cursor: pointer;
 
 }
+.active{
+background-color: #3215b4;
+color: #fff;
+}
+
