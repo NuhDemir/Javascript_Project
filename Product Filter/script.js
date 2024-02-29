@@ -17,12 +17,18 @@ let products = {
         category: "TopWear",
         price:"30",
         image: "Black-Tshirt.jpg"
-    }
+    },
     {
-        productName:"Regular White T-shirt",
-        category: "TopWear",
-        price:"30",
-        image: "White-Tshirt.jpg"
+        productName:"Smart Watch",
+        category: "Watch",
+        price:"99",
+        image: "Smart-Watch.jpg"
+    },
+    {
+        productName:"Basic-Knife",
+        category: "Knife",
+        price:"122",
+        image: "Basic-Knife.jpg"
     }
-]
+],
 };
