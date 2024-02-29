@@ -47,6 +47,6 @@ for(let i of products.data){
     imgContainer.appendChild(image);
     card.appendChild(imgContainer);
 
-    document.getElementById("products").appendChild(card);
+    document.getElementById("products").appendChild()
 
 }
