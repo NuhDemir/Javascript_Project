@@ -1,35 +1,73 @@
 let products = {
     data: [ 
     {
-        productName:"Regular White T-shirt",
-        category: "TopWear",
+        productName:"Blue Jacket",
+        category: "jacket",
         price:"30",
-        image: "White-Tshirt.jpg"
+        image: "img/17.jpg",
     },
     {
-        productName:"Beige White T-shirt",
-        category: "BottomWear",
-        price:"32",
-        image: "beige-Tshirt.jpg"
+        productName:"Brown Jacket",
+        category: "jacket",
+        price:"40",
+        image: "img/18.jpg",
     },
     {
-        productName:"Regular Black T-shirt",
-        category: "TopWear",
+        productName:"Blue vintage Jacket",
+        category: "jacket",
+        price:"40",
+        image: "img/19.jpg",
+    },
+    {
+        productName:"orange winter jacket",
+        category: "jacket",
         price:"30",
-        image: "Black-Tshirt.jpg"
+        image: "img/20.jpg",
     },
     {
-        productName:"Smart Watch",
-        category: "Watch",
-        price:"99",
-        image: "Smart-Watch.jpg"
+        productName:"cream jacket",
+        category: "jacket",
+        price:"30",
+        image: "img/21.jpg",
     },
     {
-        productName:"Basic-Knife",
-        category: "shoes",
-        price:"122",
-        image: "Basic-Knife.jpg"
-    }
+        productName:"light orange jacket",
+        category: "jacket",
+        price:"30",
+        image: "img/22.jpg",
+    },
+    {
+        productName:"blue denim jacket",
+        category: "jacket",
+        price:"30",
+        image: "img/23.jpg",
+    },
+    {
+        productName:"yellow sailor jacket",
+        category: "jacket",
+        price:"30",
+        image: "img/24.jpg",
+    },
+    {
+        productName:"black biker jacket",
+        category: "jacket",
+        price:"30",
+        image: "img/25.jpg",
+    },
+    {
+        productName:"brown vintage jacket",
+        category: "jacket",
+        price:"30",
+        image: "img/26.jpg",
+    },
+    {
+        productName:"black vintage jacket",
+        category: "jacket",
+        price:"30",
+        image: "img/27.jpg",
+    },
+    
+    
 ],
 };
 
